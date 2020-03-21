@@ -410,7 +410,7 @@ create_country_leader = {
 	desc = "POLITICS_HARRY_POLLITT_DESC"
 	picture = "portrait_eng_harry_pollitt.dds"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = communism_ideology
 	traits = {
 		staunch_stalinist
 	}
@@ -421,7 +421,7 @@ create_country_leader = {
 #	desc = "POLITICS_PALME_DUTT_DESC"
 #	picture = "Portrait_Britain_Palme_Dutt.dds"
 #	expire = "1965.1.1"
-#	ideology = leninism
+#	ideology = communism_ideology
 #	traits = {
 #		
 #	}

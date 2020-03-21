@@ -90,7 +90,7 @@ create_country_leader = {
     desc = ""
     picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
     expire = "1965.1.1"
-    ideology = stalinism
+    ideology = communism_ideology
     traits = {
         #
     }
@@ -101,7 +101,7 @@ create_country_leader = {
     desc = ""
     picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
     expire = "1965.1.1"
-    ideology = socialism
+    ideology = deb_foster_thought
     traits = {
         #
     }

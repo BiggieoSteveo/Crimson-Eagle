@@ -342,7 +342,7 @@ if = {
 		desc = "POLITICS_JOSE_DIAZ_DESC"
 		picture = "portrait_spr_jose_diaz.dds"
 		expire = "1965.1.1"
-		ideology = stalinism
+		ideology = communism_ideology
 		traits = {
 
 		}
@@ -390,7 +390,7 @@ if = {
 		desc = "POLITICS_JOSE_DIAZ_DESC"
 		picture = "portrait_spr_jose_diaz.dds"
 		expire = "1965.1.1"
-		ideology = stalinism
+		ideology = communism_ideology
 		traits = {
 			veteran_communist
 		}
@@ -466,7 +466,7 @@ if = {
 		logistics_skill = 1
 	}
 	
-	# Republican leaders - Stalinist Communist
+	# Republican leaders - Communists
 	
 	create_corps_commander = { # Becomes Field Marshal at SCW start
 		name = "Valentín González"

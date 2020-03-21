@@ -104,7 +104,7 @@ create_country_leader = {
 	name = "Hosni al-Arabi"
 	desc = ""
 	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_navy_3.dds"
-	ideology = leninism
+	ideology = communism_ideology
 	traits = {
 		#
 	}
